@@ -19,7 +19,8 @@ How to Play
 -----------
 - Use WASD keys to move.
 - Use keys '[' and ']' to change the player's shape.
-<img width="768" height="480" alt="change" src="https://github.com/user-attachments/assets/0b712d0a-e47c-4d5b-84a2-48557d0ca15b" />
+<img width="768" height="480" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/d786e053-3884-4b98-bad6-ca663eb9dc9e" />
+
 
 - player start with 3 lives
 - Match your shape to the approaching row's shape.

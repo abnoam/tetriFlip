@@ -20,6 +20,7 @@ How to Play
 - Use WASD keys to move.
 - Use keys '[' and ']' to change the player's shape.
 <img width="768" height="480" alt="change" src="https://github.com/user-attachments/assets/0b712d0a-e47c-4d5b-84a2-48557d0ca15b" />
+
 - player start with 3 lives
 - Match your shape to the approaching row's shape.
 - Stand in the correct position to complete the row and gain 100 points.

@@ -26,6 +26,8 @@ How to Play
 - Match your shape to the approaching row's shape.
 - Stand in the correct position to complete the row and gain 100 points.
 - Hitting the a row makes the player lose a life and makes the row gray and not completeable.
+<img width="768" height="480" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/63291f66-5808-444f-bacb-3ec29620aceb" />
+
 - The game ends when player lose all lives.
 - Press ESC to pause the game.
 - Press M to mute game.

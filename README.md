@@ -12,8 +12,8 @@ Installation
 1. Make sure Python (3.7 or higher) is installed.
 2. Install the required library using pip:
    pip install pygame
-3. Run the game using the main file:
-   python main.py
+3. Run the game using the file:
+   tetriFlip.exe
 
 How to Play
 -----------

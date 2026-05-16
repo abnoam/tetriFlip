@@ -17,10 +17,9 @@ Installation
 
 How to Play
 -----------
-- Use WASD keys to move.
-- Use keys '[' and ']' to change the player's shape.
+* **Movement:** Use the `W`, `A`, `S`, `D` keys to move around.
+* **Change Shape:** Use the `[` and `]` keys to switch the player's shape.
 <img width="768" height="480" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/d786e053-3884-4b98-bad6-ca663eb9dc9e" />
-
 
 - player start with 3 lives
 - Match your shape to the approaching row's shape.
@@ -29,8 +28,8 @@ How to Play
 <img width="768" height="480" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/63291f66-5808-444f-bacb-3ec29620aceb" />
 
 - The game ends when player lose all lives.
-- Press ESC to pause the game.
-- Press M to mute game.
+* **Pause:** Press `ESC` to pause/unpause.
+* **Mute:** Press `M` to mute/unmute the game.
 
 Folder Structure
 ----------------
@@ -47,18 +46,19 @@ project-root/
 
 Dependencies
 ------------
-- pygame: 2D game development library
+* **Libraries:** `pygame` (2D game development library)
 
 TODO – Future Improvements
 --------------------------
-- Add powerups
-- Multiplayer / co-op mode
-- Shop and coin system
-- Additional difficulty levels
-- improve visuals
+* [ ] Add power-ups and special abilities
+* [ ] Implement multiplayer / co-op mode
+* [ ] Create a shop and coin system
+* [ ] Introduce additional difficulty levels
+* [ ] Improve visuals and animations
 
 Credits
 -------
-- Noam Abutbul and Yosif stolovitzki
-- all sounds made by us except background music
-- Inspired by Tetris (background music and shapes)
+* **Developers:** Noam Abutbul & Yosif Stolovitzki
+* **Course Lecturer**: Developed as part of an academic project under the guidance of mariana beiderman.
+* **Audio:** All sound effects were created by us (except for the background music).
+* **Inspiration:** Strongly inspired by *Tetris* (background music and shapes).

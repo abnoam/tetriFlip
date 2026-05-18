@@ -1,4 +1,4 @@
-<img width="1280" height="451" alt="536dab32-11f8-434b-a65e-eb98b5a0e61d_removalai_preview (1)" src="https://github.com/user-attachments/assets/b3d88e09-60b0-40ac-899e-5e4212b59463" />
+<img width="1280" height="451" alt="banner" src="https://github.com/user-attachments/assets/793cbfca-0640-4d2b-9bd8-df3abbc26fe1" />
 
 Tetri Flip Game
 ===============
